@@ -1,0 +1,23 @@
+This gamemode is not finished but it is playable.
+
+Job trees:
+Citizenship
+Workforce
+(Farming) - Didn't add because it wasn't finished
+Criminal
+Police
+
+Things left that I discontinued from:
+Unique item system (Common/ResourceSO.cs)
+Fixed jail time, as days should not be based on demerits (Common/JailSO.cs)
+Teleports should cost money (Common/Teleporting.cs)
+Shop system (Common/ResourceSO.cs) (Never started on)
+Make the hunger system more unique (Common/Survival.cs)
+Drugs (CityItems/Drugs/*)
+Farming (CityItems/Farming/*)
+Special arresting (CityItems/HandCuffs/* and Common/JailSO.cs)
+Spawning/purchasing vehicles (Common/ResourceSO.cs)
+Possible chance to pay off demerits (Common/JailSO.cs)
+See who's wanted (Common/JailSO.cs)
+
+Lots more...
