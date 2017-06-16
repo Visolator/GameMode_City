@@ -1,0 +1,3 @@
+Title: Gamemode_City
+Author: Visolator (ID: 20490)
+Description: A CityRPG that has way more support than IBan's.
